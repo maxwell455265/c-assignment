@@ -1,0 +1,29 @@
+using System;
+
+namespace HelloWorld
+{
+    class asssignment{
+        static void main(String[] args) {
+ int i = 4;
+ double d = 4.0;
+ string s = "Polyilaro ";
+ 
+ 
+
+
+ int  first_no = 12;
+ double second_no = 4.0;
+ string text = "is the best place to learn and pratices coding";
+ int sum = i + first_no;
+ double sum_second = second_no + d ;
+ string information = s + text;
+ console.WriteLine(" sum of interger value: " sum);
+ console.WriteLine("sum of the double value: " sum_second);
+ console.WriteLine(information);
+ console.ReadLine();
+ 
+
+    }
+
+}
+}
